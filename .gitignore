@@ -1,0 +1,7 @@
+.project
+.classpath
+.settings
+bin/
+*.class
+.idea
+git-ignore-demo.iml
